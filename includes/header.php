@@ -19,9 +19,6 @@
     <!--[if !IE 7]>
     <link href="templates/bash_2010/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
-        <!--[if opera]>
-    <link href="templates/bash_2010/css/opera.css" rel="stylesheet" type="text/css" media="screen" />
-    <![endif]-->
-        <!--[if Safari]>
+    <!--[if Safari]>
     <link href="templates/bash_2010/css/safari.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
