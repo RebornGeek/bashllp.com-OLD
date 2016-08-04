@@ -44,7 +44,7 @@
             <table class="contentpaneopen">
                 <tr>
                     <td class="contentheading" width="100%">
-                        <a href="/lawyers.html" class="contentpagetitle">
+                        <a href="/lawyers.php" class="contentpagetitle">
                             Our Team of Lawyers</a>
                     </td>
 
@@ -67,7 +67,7 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Thomas C.H. Baldwin, Q.C." src="/components/com_staffmaster/images/Tom_W.jpg" alt="Thomas C.H. Baldwin, Q.C." /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><span><a href="/lawyers/tchbaldwin.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Thomas C.H. Baldwin, Q.C</span>.</a>
+                                                        <div><span><a href="/lawyers/tchbaldwin.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Thomas C.H. Baldwin, Q.C</span>.</a>
                                                                         </span>
                                                         </div>
                                                     </td>
@@ -76,7 +76,7 @@
                                                             <br /> Appointed Queen's Counsel, 1984</p>
                                                         <p>Tom Baldwin's general corporate, commercial and securities practice encompasses the banking, loan, trust and securities
                                                             <br />
-                                                            <br /><a href="/lawyers/tchbaldwin.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/tchbaldwin.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -101,13 +101,13 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Alexander Sennecke" src="/components/com_staffmaster/images/sennecke_w.jpg" alt="Alexander Sennecke" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/asennecke.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Alexander Sennecke</span></a></div>
+                                                        <div><a href="/lawyers/asennecke.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Alexander Sennecke</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 1987.</p>
                                                         <p>Alexander has 20 years experience representing German speaking clients doing business in Ontario with a special focus on German-Canadian cross border corpor
                                                             <br />
-                                                            <br /><a href="/lawyers/asennecke.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/asennecke.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -116,13 +116,13 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Jeffrey Halman" src="/components/com_staffmaster/images/Jeff_w.jpg" alt="Jeffrey Halman" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/jhalman.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Jeffrey Halman</span></a></div>
+                                                        <div><a href="/lawyers/jhalman.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Jeffrey Halman</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 1987.</p>
                                                         <p>Jeff Halman specializes in all aspects of real estate law, including: buying, selling and financing commercial, residential and hospitality industry propert
                                                             <br />
-                                                            <br /><a href="/lawyers/jhalman.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/jhalman.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -131,14 +131,14 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Evan L. Tingley" src="/components/com_staffmaster/images/Evan_w.jpg" alt="Evan L. Tingley" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/etingley.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Evan L. Tingley</span></a></div>
+                                                        <div><a href="/lawyers/etingley.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Evan L. Tingley</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 1995.</p>
                                                         <p> </p>
                                                         <p>Evan Tingley practices exclusively in the area of civil and commercial litigation. His practice includes all manner of real estate litigation, wr
                                                             <br />
-                                                            <br /><a href="/lawyers/etingley.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/etingley.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -147,13 +147,13 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Mati E Pajo" src="/components/com_staffmaster/images/Mati_w.jpg" alt="Mati E Pajo" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/mpajo.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Mati E Pajo</span></a></div>
+                                                        <div><a href="/lawyers/mpajo.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Mati E Pajo</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 2000.</p>
                                                         <p>Mati Pajo practises business law with an emphasis on securities, corporate and commercial matters. In the securities area, Mati advises clients on initial
                                                             <br />
-                                                            <br /><a href="/lawyers/mpajo.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/mpajo.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -162,13 +162,13 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img class="staff_image" title="Sylvia L. Tint" src="/components/com_staffmaster/images/stint_w_2.jpg" alt="Sylvia L. Tint" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/stint.html"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Sylvia L. Tint</span></a></div>
+                                                        <div><a href="/lawyers/stint.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Sylvia L. Tint</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 1993.</p>
                                                         <p>Sylvia has an extensive employment law practice. She advises clients with respect to interpretation and drafting of employment contracts (and independent co
                                                             <br />
-                                                            <br /><a href="/lawyers/stint.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/stint.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -177,13 +177,13 @@
                                                 <tr>
                                                     <td class="staff_image_table"><img src="/images/stories/dtw-pix-2.jpg" alt="" width="99" /></td>
                                                     <td width="35%" align="left" valign="top">
-                                                        <div><a href="/lawyers/dtwhite"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Dylan T. White</span></a></div>
+                                                        <div><a href="/lawyers/dtwhite.php"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;">Dylan T. White</span></a></div>
                                                     </td>
                                                     <td class="bio" width="55%" align="left" valign="top">
                                                         <p>Called to the Ontario Bar, 2009.</p>
                                                         <p>Dylan advises clients on a broad range of corporate/commercial matters, including incorporations, corporate governance, shareholder agreements, business acquisitions and general commercial matters.
                                                             <br />
-                                                            <br /><a href="/lawyers/dtwhite.html">Read More...</a></p>
+                                                            <br /><a href="/lawyers/dtwhite.php">Read More...</a></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
