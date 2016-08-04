@@ -1,0 +1,373 @@
+/*
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.7.0
+*/
+#ariyui59 .yuimenu {
+	top: -999em;
+	left: -999em;
+}
+
+#ariyui59 .yuimenubar {
+	position: static;
+}
+
+#ariyui59 .yuimenu .yuimenu,
+#ariyui59 .yuimenubar .yuimenu {
+	position: absolute;
+}
+
+#ariyui59 .yuimenubar li,
+#ariyui59 .yuimenu li {
+	list-style-type: none;
+	display: block;
+	background-color: transparent;
+	text-align: left;
+}
+
+#ariyui59 .yuimenubar ul,
+#ariyui59 .yuimenu ul {
+	background-color: transparent;
+	
+}
+
+#ariyui59 .yuimenubar ul,
+#ariyui59 .yuimenu ul,
+#ariyui59 .yuimenubar li,
+#ariyui59 .yuimenu li,
+#ariyui59 .yuimenu h6,
+#ariyui59 .yuimenubar h6 {
+	margin: 0;
+	padding: 0;
+		margin-left:-5px;
+}
+
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritem,
+#ariyui59.yui-skin-sam .yuimenunav .yuimenuitem {
+	display: block;
+}
+
+#ariyui59 .yuimenuitemlabel,
+#ariyui59 .yuimenubaritemlabel {
+	text-align: left;
+	white-space: nowrap;
+}
+
+#ariyui59 UL LI A.yuimenuitemlabel,
+#ariyui59 UL LI A.yuimenuitemlabel:link,
+#ariyui59 UL LI A.yuimenuitemlabel:hover,
+#ariyui59 UL LI A.yuimenuitemlabel:visited,
+#ariyui59 UL LI A.yuimenubaritemlabel,
+#ariyui59 UL LI A.yuimenubaritemlabel:link,
+#ariyui59 UL LI A.yuimenubaritemlabel:hover,
+#ariyui59 UL LI A.yuimenubaritemlabel:visited {
+	background-color: transparent;
+	float: none;
+}
+
+#ariyui59 .yuimenubar ul { 
+	*zoom: 1;
+}
+
+#ariyui59 .yuimenubar .yuimenu ul { 
+	*zoom: normal;
+}
+
+#ariyui59 .yuimenubar>.bd>ul:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
+}
+
+#ariyui59 .yuimenubaritem {
+	float: left;
+}
+
+#ariyui59 .yuimenubaritemlabel,
+#ariyui59 .yuimenuitemlabel {
+	display: block;
+	*display: inline-block;
+}
+
+#ariyui59 .yuimenuitemlabel .helptext {
+	font-style: normal;
+	display: block;
+	margin: -1em 0 0 10em;
+}
+
+#ariyui59 .yui-menu-shadow {
+	position: absolute;
+	visibility: hidden;
+	z-index: -1;
+}
+
+#ariyui59 .yui-menu-shadow-visible {
+	top: 2px;
+	right: -3px;
+	left: -3px;
+	bottom: -3px;
+	visibility: visible;
+}
+
+#ariyui59 .hide-scrollbars * {
+	overflow: hidden;
+}
+
+#ariyui59 .hide-scrollbars select {
+	display: none;
+}
+
+#ariyui59 .yuimenu .show-scrollbars,
+#ariyui59 .yuimenubar.show-scrollbars {
+	overflow: visible;
+}
+
+#ariyui59 .yuimenu .hide-scrollbars .yui-menu-shadow,
+#ariyui59 .yuimenubar.hide-scrollbars .yui-menu-shadow {
+	overflow: hidden;
+}
+
+#ariyui59 .yuimenu .show-scrollbars .yui-menu-shadow,
+#ariyui59 .yuimenubar.show-scrollbars .yui-menu-shadow {
+	overflow: auto;
+}
+
+#ariyui59 .yui-overlay.yui-force-redraw {
+	margin-bottom: 1px;
+}
+
+#ariyui59.yui-skin-sam .yuimenubar {
+	font-size: 93%;
+	line-height: 2; 
+	*line-height: 1.9;
+/*	border: solid 1px #808080;
+	background: url(js/assets/menu/sam/sprite.png) repeat-x 0 0;*/
+}
+
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritem {
+	
+}
+
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel:link,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel:visited,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel:hover {
+	padding: 0 20px 0 10px;
+	color: #000;
+	text-decoration: none;
+	cursor: default;
+	border-style: solid;
+	border-color: #fff;
+	border-width: 1px 0; 
+	*position: relative;
+	margin: -1px 0;
+	
+	font-size: 93%;
+	line-height: 2; 
+	*line-height: 1.9; 
+	*display: inline-block;
+}
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel:hover {
+	padding: 0 20px 0 10px;
+	color: #A9A097;
+	text-decoration: none;
+	cursor: default;
+	border-style: solid;
+	border-color: #808080;
+	border-width: 1px 0; 
+	*position: relative;
+	margin: -1px 0;
+	
+	font-size: 93%;
+	line-height: 2; 
+	*line-height: 1.9; 
+	*display: inline-block;
+}
+/*
+#ariyui59.yui-skin-sam .yuimenubarnav LI A.yuimenubaritemlabel,
+#ariyui59.yui-skin-sam .yuimenubarnav LI A.yuimenubaritemlabel:link,
+#ariyui59.yui-skin-sam .yuimenubarnav LI A.yuimenubaritemlabel:visited,
+#ariyui59.yui-skin-sam .yuimenubarnav LI A.yuimenubaritemlabel:hover {
+	font-size: 93%;
+	line-height: 2; 
+	*line-height: 1.9;
+	padding-right: 20px; 
+	*display: inline-block;
+}*/
+
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-hassubmenu {
+	background: url(js/assets/menu/sam/menubaritem_submenuindicator.png) right center no-repeat;
+}
+
+#ariyui59.yui-skin-sam .yuimenubaritem-selected,
+#ariyui59.yui-skin-sam .yuimenubaritem-active {
+/*	background: url(js/assets/menu/sam/sprite.png) repeat-x 0 -1700px;*/
+}
+
+#ariyui59.yui-skin-sam A.yuimenubaritemlabel-selected,
+#ariyui59.yui-skin-sam A.yuimenubaritemlabel-active {
+	border-color: #7D98B8;
+}
+
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-selected,
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-active {
+	border-left-width: 1px;
+	margin-left: -1px; 
+	*left: -1px;
+}
+
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel-disabled,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel-disabled:visited,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel-disabled:link,
+#ariyui59.yui-skin-sam UL LI A.yuimenubaritemlabel-disabled:hover {
+	cursor: default;
+	color: #A6A6A6;
+}
+
+#ariyui59.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-hassubmenu-disabled {
+	background-image: url(js/assets/menu/sam/menubaritem_submenuindicator_disabled.png);
+}
+
+#ariyui59.yui-skin-sam .yuimenu {
+	font-size: 93%;
+	line-height: 1.5; 
+	*line-height: 1.45;
+}
+
+#ariyui59.yui-skin-sam .yuimenubar .yuimenu,
+#ariyui59.yui-skin-sam .yuimenu .yuimenu {
+	font-size: 100%;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .bd { 
+	*zoom: 1;
+	_zoom: normal;
+	border: solid 1px #808080;
+	background-color: #fff;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .yuimenu .bd { 
+	*zoom: normal;
+}
+
+#ariyui59.yui-skin-sam .yuimenu ul {
+	padding: 3px 0;
+	border-width: 1px 0 0 0;
+	border-color: #ccc;
+	border-style: solid;
+}
+
+#ariyui59.yui-skin-sam .yuimenu ul.first-of-type {
+	border-width: 0;
+}
+
+#ariyui59.yui-skin-sam .yuimenu h6 {
+	font-weight: bold;
+	
+	color: #a4a4a4;
+	padding: 3px 10px 0 10px;
+}
+
+#ariyui59.yui-skin-sam .yuimenu ul .hastitle,
+#ariyui59.yui-skin-sam .yuimenu h6.first-of-type {
+	border-width: 0;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .yui-menu-body-scrolled {
+	border-color: #ccc #808080;
+	overflow: hidden;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .topscrollbar,
+#ariyui59.yui-skin-sam .yuimenu .bottomscrollbar {
+	height: 16px;
+	border: solid 1px #808080;
+	/*background: #fff url(js/assets/menu/sam/sprite.png) no-repeat 0 0;*/
+}
+
+#ariyui59.yui-skin-sam .yuimenu .topscrollbar {
+	border-bottom-width: 0;
+	background-position: center -950px;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .topscrollbar_disabled {
+	background-position: center -975px;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .bottomscrollbar {
+	border-top-width: 0;
+	background-position: center -850px;
+}
+
+#ariyui59.yui-skin-sam .yuimenu .bottomscrollbar_disabled {
+	background-position: center -875px;
+}
+
+#ariyui59.yui-skin-sam LI.yuimenuitem {
+	float: none;
+	_border-bottom: solid 1px #fff;
+}
+
+#ariyui59.yui-skin-sam UL LI A.yuimenuitemlabel {
+	padding: 0 20px !important;
+	color: #000;
+	text-decoration: none;
+	cursor: default;
+	border: 0;
+	background-color: transparent;
+	line-height: 1.5; 
+	*line-height: 1.45;
+	height: auto;
+}
+
+#ariyui59.yui-skin-sam .yuimenuitemlabel .helptext {
+	margin-top: -1.5em; 
+	*margin-top: -1.45em;
+}
+
+#ariyui59.yui-skin-sam LI.yuimenuitem-hassubmenu {
+	background-image: url(js/assets/menu/sam/menuitem_submenuindicator.png);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+#ariyui59.yui-skin-sam .yuimenuitem-checked {
+	background-image: url(js/assets/menu/sam/menuitem_checkbox.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+
+#ariyui59.yui-skin-sam .yui-menu-shadow-visible {
+	background-color: #000;
+	opacity: .12;
+	filter: alpha(opacity = 12);
+}
+
+#ariyui59.yui-skin-sam UL LI.yuimenuitem-selected,
+#ariyui59.yui-skin-sam UL LI.yuimenuitem-active {
+	background-color: #8D9E93;
+}
+
+#ariyui59.yui-skin-sam UL LI.yuimenuitem-disabled {
+	background-color: transparent;
+}
+
+#ariyui59.yui-skin-sam UL LI A.yuimenuitemlabel-disabled,
+#ariyui59.yui-skin-sam UL LI A.yuimenuitemlabel-disabled:visited,
+#ariyui59.yui-skin-sam UL LI A.yuimenuitemlabel-disabled:link,
+#ariyui59.yui-skin-sam UL LI A.yuimenuitemlabel-disabled:hover {
+	cursor: default;
+	
+}
+
+#ariyui59.yui-skin-sam .yuimenuitem-hassubmenu-disabled {
+	background-image: url(js/assets/menu/sam/menuitem_submenuindicator_disabled.png);
+}
+
+#ariyui59.yui-skin-sam .yuimenuitem-checked-disabled {
+	background-image: url(js/assets/menu/sam/menuitem_checkbox_disabled.png);
+}
