@@ -86,12 +86,12 @@
 <tr>
 <td class="staff_image_table"><img class="staff_image" title="Richard E. Anka, Q.C." src="/components/com_staffmaster/images/Richard_w.jpg"          alt="Richard E. Anka, Q.C." /></td>
 <td width="35%" align="left" valign="top">
-<div><a href="/lawyers/reanka.html"         ><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;"         >Richard E. Anka, Q.C.</span></a></div>
+<div><a href="/lawyers/reanka.php"         ><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 18px; line-height: normal; font-size-adjust: none; font-stretch: normal; font-decoration: none; color: #8d9e93; text-align: left; text-decoration: none;"         >Richard E. Anka, Q.C.</span></a></div>
 </td>
 <td class="bio" width="55%" align="left" valign="top">
 <p>Called to the Ontario Bar, 1968.</p>
 <p>Appointed Queen's Counsel, 1981</p>
-<p>Richard Anka practices exclusively in the area of civil and commercial litigation. His practice includes insurance law<br /><br /><a href="/lawyers/reanka.html"         >Read More...</a></p>
+<p>Richard Anka practices exclusively in the area of civil and commercial litigation. His practice includes insurance law<br /><br /><a href="/lawyers/reanka.php"         >Read More...</a></p>
 </td>
 </tr>
 <tr>

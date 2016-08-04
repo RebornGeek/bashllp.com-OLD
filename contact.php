@@ -170,7 +170,7 @@
                     </tr>
                     <tr>
                         <td colspan="2">
-                            Download information as a <a href="http://bashllp.com/index.php?option=com_contact&amp;task=vcard&amp;contact_id=2&amp;format=raw&amp;tmpl=component">
+                            Download information as a <a href="/index.php?option=com_contact&amp;task=vcard&amp;contact_id=2&amp;format=raw&amp;tmpl=component">
                                 vCard</a>
                         </td>
                     </tr>

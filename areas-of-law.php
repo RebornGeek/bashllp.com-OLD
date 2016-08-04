@@ -49,7 +49,7 @@
                                 <table class="contentpaneopen">
                                     <tr>
                                         <td class="contentheading" width="100%">
-                                            <a href="/areas-of-law/8-corporate.html" class="contentpagetitle">
+                                            <a href="/areas-of-law/8-corporate.php" class="contentpagetitle">
 			Corporate &amp; Commercial</a>
                                         </td>
 
@@ -58,7 +58,7 @@
                                         </td>
 
                                         <td align="right" width="100%" class="buttonheading">
-                                            <a href="/areas-of-law/8-corporate.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                            <a href="/areas-of-law/8-corporate.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                         </td>
 
                                         <td align="right" width="100%" class="buttonheading">
@@ -141,7 +141,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/securities.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/securities.php" class="contentpagetitle">
 			Securities</a>
                                                 </td>
 
@@ -150,7 +150,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/2-securities.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/2-securities.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -187,7 +187,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/real-estate.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/real-estate.php" class="contentpagetitle">
 			Real Estate</a>
                                                 </td>
 
@@ -196,7 +196,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/3-real-estate.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/3-real-estate.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -236,7 +236,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/litigation.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/litigation.php" class="contentpagetitle">
 			Litigation</a>
                                                 </td>
 
@@ -245,7 +245,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/4-litigation.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/4-litigation.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -280,7 +280,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/immigration.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/immigration.php" class="contentpagetitle">
 			Immigration</a>
                                                 </td>
 
@@ -289,7 +289,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/5-immigration.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/5-immigration.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -317,7 +317,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/estates.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/estates.php" class="contentpagetitle">
 			Estates</a>
                                                 </td>
 
@@ -326,7 +326,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/10-estates.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/10-estates.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -351,7 +351,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/employment.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/employment.php" class="contentpagetitle">
 			Employment</a>
                                                 </td>
 
@@ -360,7 +360,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/7-employment.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/7-employment.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -394,7 +394,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/family.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/family.php" class="contentpagetitle">
 			Family</a>
                                                 </td>
 
@@ -403,7 +403,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/9-family.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/9-family.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
@@ -430,7 +430,7 @@
                                         <table class="contentpaneopen">
                                             <tr>
                                                 <td class="contentheading" width="100%">
-                                                    <a href="/areas-of-law/international-trade.html" class="contentpagetitle">
+                                                    <a href="/areas-of-law/international-trade.php" class="contentpagetitle">
 			International Trade</a>
                                                 </td>
 
@@ -439,7 +439,7 @@
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">
-                                                    <a href="/areas-of-law/11-international-trade.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                                                    <a href="/areas-of-law/11-international-trade.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                                                 </td>
 
                                                 <td align="right" width="100%" class="buttonheading">

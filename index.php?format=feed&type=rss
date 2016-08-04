@@ -4,14 +4,14 @@
 	<channel>
 		<title>Home</title>
 		<description>We provide legal services and are experts in the following areas of law: corporate, civil litigation, immigration, securities, estates, and real estate law.</description>
-		<link>http://bashllp.com/component/content/frontpage.html</link>
+		<link>http://bashllp.com/component/content/frontpage.php</link>
 		<lastBuildDate>Fri, 19 Dec 2014 09:23:18 +0000</lastBuildDate>
 		<generator>Joomla! 1.5 - Open Source Content Management</generator>
 		<language>en-gb</language>
 		<item>
 			<title>Helping You Make the Right Moves</title>
-			<link>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.html</link>
-			<guid>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.html</guid>
+			<link>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.php</link>
+			<guid>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.php</guid>
 			<description><![CDATA[<p style="text-align: justify;">We provide expert legal services in the following areas of law: corporate and commercial, securities, real estate, civil litigation, immigration, estates, employment and family law.</p>
 <p style="text-align: justify;">Please do not hesitate to contact us so that we may help you make the right moves.</p>
 <p style="text-align: justify;"> </p>

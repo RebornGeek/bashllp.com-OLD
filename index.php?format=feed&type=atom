@@ -10,10 +10,10 @@
 <link rel="self" type="application/atom+xml" href="http://bashllp.com/index.php?format=feed&amp;type=atom" />
 	<entry>
 		<title>Helping You Make the Right Moves</title>
-		<link rel="alternate" type="text/html" href="http://bashllp.com/component/content/article/6-information/1-helping-right-moves.html"/>
+		<link rel="alternate" type="text/html" href="http://bashllp.com/component/content/article/6-information/1-helping-right-moves.php"/>
 		<published>2010-08-04T08:23:24Z</published>
 		<updated>2010-08-04T08:23:24Z</updated>
-		<id>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.html</id>
+		<id>http://bashllp.com/component/content/article/6-information/1-helping-right-moves.php</id>
 		<author>
 			<name>Administrator</name>
 		<email>torben@beegdesign.com</email>

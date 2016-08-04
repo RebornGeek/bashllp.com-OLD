@@ -44,7 +44,7 @@
             <table class="contentpaneopen">
                 <tr>
                     <td class="contentheading" width="100%">
-                        <a href="/areas-of-law/immigration.html" class="contentpagetitle">
+                        <a href="/areas-of-law/immigration.php" class="contentpagetitle">
                             Immigration</a>
                     </td>
                     <td align="right" width="100%" class="buttonheading">
@@ -52,7 +52,7 @@
                     </td>
 
                     <td align="right" width="100%" class="buttonheading">
-                        <a href="/areas-of-law/immigration.html?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
+                        <a href="/areas-of-law/immigration.php?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print" /></a>
                     </td>
 
                     <td align="right" width="100%" class="buttonheading">

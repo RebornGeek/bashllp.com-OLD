@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
     <link href="/index.feed?type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />

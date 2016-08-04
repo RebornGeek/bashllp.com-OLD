@@ -190,7 +190,7 @@
                                 pPI.style.display = 'block';
                                 var from64 = Base64.encode(fromPMAddress).toString();
                                 var to64 = Base64.encode(toPMAddress).toString();
-                                pPI.innerHTML = '<div class="pmprintroutelink"><a href=\u0022/map-directions/route/1-map-directions.html?tmpl=component&amp;print=1&amp;from=' + from64 + '&amp;to=' + to64 + '&amp;lang=EN\u0022 rel=\u0022nofollow\u0022 onclick=\u0022window.open(this.href,\'phocaMapRoute\',\'width=640,height=480,menubar=yes,resizable=yes,scrollbars=yes,resizable=yes\'); return false;\u0022 >Print Route</a></div><div style="clear:both"></div>';
+                                pPI.innerHTML = '<div class="pmprintroutelink"><a href=\u0022/map-directions/route/1-map-directions.php?tmpl=component&amp;print=1&amp;from=' + from64 + '&amp;to=' + to64 + '&amp;lang=EN\u0022 rel=\u0022nofollow\u0022 onclick=\u0022window.open(this.href,\'phocaMapRoute\',\'width=640,height=480,menubar=yes,resizable=yes,scrollbars=yes,resizable=yes\'); return false;\u0022 >Print Route</a></div><div style="clear:both"></div>';
 
                                 phocaDirDisplay.setDirections(response);
                             } else if (google.maps.DirectionsStatus.NOT_FOND) {

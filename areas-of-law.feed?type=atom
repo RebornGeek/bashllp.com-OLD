@@ -49,63 +49,63 @@
 	<div id="ariyuimenu_ariyui59" class="yuimenubar yuimenubarnav">
 		<div class="bd">
 			<ul class="first-of-type">
-									<li class="yuimenubaritem yui-menu-item1 first-of-type"><a class="yuimenubaritemlabel" href="/index.html">Home</a>
+									<li class="yuimenubaritem yui-menu-item1 first-of-type"><a class="yuimenubaritemlabel" href="/index.php">Home</a>
 										</li>
-									<li class="yuimenubaritem yui-menu-item2"><a class="yuimenubaritemlabel" href="/areas-of-law.html">Areas of Law</a>
+									<li class="yuimenubaritem yui-menu-item2"><a class="yuimenubaritemlabel" href="/areas-of-law.php">Areas of Law</a>
 					
 	<div id="ariyuimenu_ariyui59_2" class="yuimenu">
 		<div class="bd">
 			<ul>
-									<li class="yuimenuitem yui-menu-item28"><a class="yuimenuitemlabel" href="/areas-of-law/corporate.html">Corporate &amp; Commercial</a>
+									<li class="yuimenuitem yui-menu-item28"><a class="yuimenuitemlabel" href="/areas-of-law/corporate.php">Corporate &amp; Commercial</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item36"><a class="yuimenuitemlabel" href="/areas-of-law/securities.html">Securities</a>
+									<li class="yuimenuitem yui-menu-item36"><a class="yuimenuitemlabel" href="/areas-of-law/securities.php">Securities</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item29"><a class="yuimenuitemlabel" href="/areas-of-law/real-estate.html">Real Estate</a>
+									<li class="yuimenuitem yui-menu-item29"><a class="yuimenuitemlabel" href="/areas-of-law/real-estate.php">Real Estate</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item34"><a class="yuimenuitemlabel" href="/areas-of-law/litigation.html">Litigation</a>
+									<li class="yuimenuitem yui-menu-item34"><a class="yuimenuitemlabel" href="/areas-of-law/litigation.php">Litigation</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item35"><a class="yuimenuitemlabel" href="/areas-of-law/immigration.html">Immigration</a>
+									<li class="yuimenuitem yui-menu-item35"><a class="yuimenuitemlabel" href="/areas-of-law/immigration.php">Immigration</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item37"><a class="yuimenuitemlabel" href="/areas-of-law/estates.html">Estates</a>
+									<li class="yuimenuitem yui-menu-item37"><a class="yuimenuitemlabel" href="/areas-of-law/estates.php">Estates</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item38"><a class="yuimenuitemlabel" href="/areas-of-law/employment.html">Employment</a>
+									<li class="yuimenuitem yui-menu-item38"><a class="yuimenuitemlabel" href="/areas-of-law/employment.php">Employment</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item39"><a class="yuimenuitemlabel" href="/areas-of-law/family.html">Family</a>
+									<li class="yuimenuitem yui-menu-item39"><a class="yuimenuitemlabel" href="/areas-of-law/family.php">Family</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item40"><a class="yuimenuitemlabel" href="/areas-of-law/international-trade.html">International Trade</a>
+									<li class="yuimenuitem yui-menu-item40"><a class="yuimenuitemlabel" href="/areas-of-law/international-trade.php">International Trade</a>
 										</li>
 							</ul>
 		</div>
 	</div>
 					</li>
-									<li class="yuimenubaritem yui-menu-item3"><a class="yuimenubaritemlabel" href="/lawyers.html">Lawyers</a>
+									<li class="yuimenubaritem yui-menu-item3"><a class="yuimenubaritemlabel" href="/lawyers.php">Lawyers</a>
 					
 	<div id="ariyuimenu_ariyui59_3" class="yuimenu">
 		<div class="bd">
 			<ul>
-									<li class="yuimenuitem yui-menu-item41"><a class="yuimenuitemlabel" href="/lawyers/tchbaldwin.html">Thomas C.H. Baldwin, Q.C.</a>
+									<li class="yuimenuitem yui-menu-item41"><a class="yuimenuitemlabel" href="/lawyers/tchbaldwin.php">Thomas C.H. Baldwin, Q.C.</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item43"><a class="yuimenuitemlabel" href="/lawyers/asennecke.html">Alexander Sennecke</a>
+									<li class="yuimenuitem yui-menu-item43"><a class="yuimenuitemlabel" href="/lawyers/asennecke.php">Alexander Sennecke</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item44"><a class="yuimenuitemlabel" href="/lawyers/jhalman.html">Jeffrey Halman</a>
+									<li class="yuimenuitem yui-menu-item44"><a class="yuimenuitemlabel" href="/lawyers/jhalman.php">Jeffrey Halman</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item45"><a class="yuimenuitemlabel" href="/lawyers/etingley.html">Evan L. Tingley</a>
+									<li class="yuimenuitem yui-menu-item45"><a class="yuimenuitemlabel" href="/lawyers/etingley.php">Evan L. Tingley</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item46"><a class="yuimenuitemlabel" href="/lawyers/mpajo.html">Mati E Pajo</a>
+									<li class="yuimenuitem yui-menu-item46"><a class="yuimenuitemlabel" href="/lawyers/mpajo.php">Mati E Pajo</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item47"><a class="yuimenuitemlabel" href="/lawyers/stint.html">Sylvia L. Tint</a>
+									<li class="yuimenuitem yui-menu-item47"><a class="yuimenuitemlabel" href="/lawyers/stint.php">Sylvia L. Tint</a>
 										</li>
-									<li class="yuimenuitem yui-menu-item58"><a class="yuimenuitemlabel" href="/lawyers/dtwhite.html">Dylan T. White</a>
+									<li class="yuimenuitem yui-menu-item58"><a class="yuimenuitemlabel" href="/lawyers/dtwhite.php">Dylan T. White</a>
 										</li>
 							</ul>
 		</div>
 	</div>
 					</li>
-									<li class="yuimenubaritem yui-menu-item4"><a class="yuimenubaritemlabel" href="/map-directions.html">Map &amp; Directions</a>
+									<li class="yuimenubaritem yui-menu-item4"><a class="yuimenubaritemlabel" href="/map-directions.php">Map &amp; Directions</a>
 										</li>
-									<li class="yuimenubaritem yui-menu-item5"><a class="yuimenubaritemlabel" href="/contact.html">Contact</a>
+									<li class="yuimenubaritem yui-menu-item5"><a class="yuimenubaritemlabel" href="/contact.php">Contact</a>
 										</li>
-									<li class="yuimenubaritem yui-menu-item50"><a class="yuimenubaritemlabel" href="/privacy-policy.html">Privacy Policy</a>
+									<li class="yuimenubaritem yui-menu-item50"><a class="yuimenubaritemlabel" href="/privacy-policy.php">Privacy Policy</a>
 										</li>
 							</ul>
 		</div>
@@ -129,7 +129,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/8-corporate.html" class="contentpagetitle">
+				<a href="/areas-of-law/8-corporate.php" class="contentpagetitle">
 			Corporate &amp; Commercial</a>
 			</td>
 	
@@ -137,7 +137,7 @@
 	<a href="/areas-of-law/8-corporate.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/8-corporate.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/8-corporate.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=a9240860fb0afa0ad13b0cc7dfc92be790109310" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -222,7 +222,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/securities.html" class="contentpagetitle">
+				<a href="/areas-of-law/securities.php" class="contentpagetitle">
 			Securities</a>
 			</td>
 	
@@ -230,7 +230,7 @@
 	<a href="/areas-of-law/2-securities.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/2-securities.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/2-securities.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=4195ffd68b4e564371e2a273486a2561e4f12bc6" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -269,7 +269,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/real-estate.html" class="contentpagetitle">
+				<a href="/areas-of-law/real-estate.php" class="contentpagetitle">
 			Real Estate</a>
 			</td>
 	
@@ -277,7 +277,7 @@
 	<a href="/areas-of-law/3-real-estate.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/3-real-estate.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/3-real-estate.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=d3709210b517174075e2a80c4081dbf64ef8314b" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -319,7 +319,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/litigation.html" class="contentpagetitle">
+				<a href="/areas-of-law/litigation.php" class="contentpagetitle">
 			Litigation</a>
 			</td>
 	
@@ -327,7 +327,7 @@
 	<a href="/areas-of-law/4-litigation.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/4-litigation.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/4-litigation.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=35c1e1ab175c5f7262ec9dc7a467ac3ba852b439" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -364,7 +364,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/immigration.html" class="contentpagetitle">
+				<a href="/areas-of-law/immigration.php" class="contentpagetitle">
 			Immigration</a>
 			</td>
 	
@@ -372,7 +372,7 @@
 	<a href="/areas-of-law/5-immigration.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/5-immigration.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/5-immigration.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=35feb286026ebd732e84800cfa9954a087ee2d07" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -402,7 +402,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/estates.html" class="contentpagetitle">
+				<a href="/areas-of-law/estates.php" class="contentpagetitle">
 			Estates</a>
 			</td>
 	
@@ -410,7 +410,7 @@
 	<a href="/areas-of-law/10-estates.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/10-estates.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/10-estates.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=090d2db4a12efadebb471ec1e5d66333f33e412f" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -437,7 +437,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/employment.html" class="contentpagetitle">
+				<a href="/areas-of-law/employment.php" class="contentpagetitle">
 			Employment</a>
 			</td>
 	
@@ -445,7 +445,7 @@
 	<a href="/areas-of-law/7-employment.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/7-employment.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/7-employment.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=b73ea48dfb387f3ef99e4cc19d6df0c36f3fa48f" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -481,7 +481,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/family.html" class="contentpagetitle">
+				<a href="/areas-of-law/family.php" class="contentpagetitle">
 			Family</a>
 			</td>
 	
@@ -489,7 +489,7 @@
 	<a href="/areas-of-law/9-family.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/9-family.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/9-family.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=1e138669f2e339179d5c9ae6d2a99ee9df29faa2" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
@@ -518,7 +518,7 @@
 <table class="contentpaneopen">
 <tr>
 		<td class="contentheading" width="100%">
-				<a href="/areas-of-law/international-trade.html" class="contentpagetitle">
+				<a href="/areas-of-law/international-trade.php" class="contentpagetitle">
 			International Trade</a>
 			</td>
 	
@@ -526,7 +526,7 @@
 	<a href="/areas-of-law/11-international-trade.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
-	<a href="/areas-of-law/11-international-trade.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
+	<a href="/areas-of-law/11-international-trade.php?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"  /></a>	</td>
 	
 		<td align="right" width="100%" class="buttonheading">
 	<a href="/component/mailto/?tmpl=component&amp;link=c936eb7533993a5f9c5309efb1cb7dc88e8b5ff3" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="Email"  /></a>	</td>
